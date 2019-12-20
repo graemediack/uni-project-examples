@@ -18,10 +18,9 @@ import nltk
 nltk.download('wordnet')
 from nltk.corpus import wordnet as wn
 
-source = 'DorianGray.txt'
-print('Analysing Dorian Gray Text')
+#source = 'DorianGray.txt'
 #source = 'Metamorphosis.txt'
-#source = 'NewScientist_JoshuaSokol_LeakingUniverse_May2017.txt'
+source = 'NewScientist_JoshuaSokol_LeakingUniverse_May2017.txt'
 #Read in data/text file, replacing new lines with spaces
 with open(source, 'r') as myfile:
     data=myfile.read().replace('\n', ' ')
