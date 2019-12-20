@@ -24,3 +24,7 @@ while userinput != '':
             x = input('Enter a word to pass to stoplist: ')
             if x != '':
                 rmList.append(x)
+            else:
+                break
+    else:
+        break
