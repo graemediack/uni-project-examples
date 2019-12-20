@@ -1,0 +1,79 @@
+IF PHYSICISTS went in for commandments, the first would surely be: thou shalt not get something from nothing. Also known as the principle of energy conservation, this universal accounting law makes it impossible for energy to be magicked either into or out of existence.
+
+Whenever a suspicious transaction seems to take place in physics, a careful audit with the principle of energy conservation usually reveals the source of the error - some overlooked entry in the ledger that, once taken into account, helps balance the books.
+
+This time-honoured technique has allowed us to predict planets and discover particles. But now it appears to be under attack. Look out into the depths of the universe today, and you see a vast quantity of energy. It is so vast, in fact, that it accounts for over two-thirds of all the energy there is. And this mysterious stash is growing continuously - energy laundering on the grandest of cosmic scales.
+
+Working out where this so-called dark energy comes from is probably the biggest problem in physics. We have long been frustrated in finding a solution, but now two groups of physicists think they have it. If they are right, we may have found dark energy's source in the imperfect joins of the universe where different theories of reality meet. Follow the trail back, and we could even arrive at a better theory of reality.
+
+We've known about the invisible elephant in the universe for some time. In 1998, astronomers observing distant supernovae noticed that they were even dimmer than expected. We expected their light to fade as it travelled towards us across an expanding universe, but these new results suggested there was a foot on the accelerator.
+
+Dark energy is the mysterious substance conjured up to explain what is pushing the universe apart ever faster. And as the latest data from sources like the Planck space telescope reveal, it is spread evenly throughout the universe at a density equivalent to around half a dozen protons in every cubic metre of space.
+
+The simplest way to explain this all-pervasive energy is to think of empty space as not being empty after all. On very small scales, quantum mechanics says that any vacuum is filled with the wriggling of quantum fields. But calculations following that approach give us a dark energy density that is 120 orders of magnitude larger than the one astronomers measure from the accelerating expansion of the universe. Almost laughably wrong.Some researchers, however, haven't given up on making these two numbers square. According to a new paper by Qingdi Wang, a student of theoretical physicist Bill Unruh at the University of British Columbia in Canada, these jiggling fields would tend to cancel each other out on larger scales, drastically deflating the prediction.
+
+But frustration at the inability to make progress has now led some to suggest that it's all down to a cosmic accounting error. The idea is that dark energy is not actually a substance held in the universe's vaults - it's something that appears on the books purely because there's something else we've overlooked.
+
+Energy conservation is such a basic principle that any apparent violation should give pause for thought. The seminal work of mathematician Emmy Noether in the early 20th century showed that energy conservation was an expression of something even more fundamental: the idea that the laws of physics are immutable over time. And indeed, it is a principle that has paved the way for centuries of discovery ("What has conservation of energy ever done for us?", see page 31).
+
+When it comes to dark energy, cosmologists already had a vague idea where the accounting error might lie. According to Einstein's equations of general relativity, energy is absorbed and released all the time by the bending and stretching of the fabric of space-time. When photons seem to lose energy as they travel across an expanding universe, for example, that energy is all assumed to go into the universe's geometry. On the scale of the cosmos as a whole, energy is always appearing to be either created or destroyed.
+
+Similarly, dark energy isn't adding or subtracting anything from the universe's overall budget. From afar, cosmologists are confident that everything balances out between the universe's stuff and the warped space-time holding it. But up close, the exact nature of the transaction bestowing space with extra energy remains mysterious. "The question is 'Where is it coming from?'" says Spiros Michalakis at the California Institute of Technology in Pasadena.
+
+Secret sourceFor Thibaut Josset of Aix-Marseille University in France, the processes responsible for that transaction lie in the jagged edges where quantum mechanics and general relativity meet. For decades, we have been looking for a unified theory of quantum gravity, one capable of explaining microscopic quantum processes alongside the large-scale workings of gravity. Thus far, no such theory exists.
+
+One key difference between general relativity and quantum mechanics lies in the way they see the universe's fundamental structure. In Einstein's view, which works perfectly for objects on the scale of planets, stars and galaxies, the four dimensions of space and time are smooth and continuous. But quantum mechanics, which seems to govern reality at small scales, implies that deep down, space, like everything else, must be made up of discrete units that we still don't know how to describe.
+
+Such a grainy structure would have repercussions for the objects that inhabit it. Relativity dictates that particles with mass bloat or compress the space around them depending on how much mass they have. The process is often equated to a taut sheet bending under the influence of a bowling ball rolling around on top of it. But what if up close, the sheet's surface was stippled?
+
+In such a situation, Josset and his colleagues argue, particles are likely to feel that graininess as a form of friction, shedding energy into the stitching of space.
+
+If their model holds, the matter in the universe has been losing energy continuously since a fraction of a second after the big bang.
+
+Adding up the little losses of energy between then and now gives an estimate for dark energy's strength closer to reality than the 120 orders of magnitude overestimate, although still quite a way off. "We are only seven orders of magnitude away," says Josset's colleague Alejandro Perez of the National Autonomous University in Mexico, noting that they plan to keep refining their estimate.
+
+"The magic of this thing is that very tiny violations of energy conservation, that are very, very hard to detect in normal, local experiments, build up during the very long history of the universe," says Perez. Add them all up, and you could have enough to explain away dark energy. In other words, it is the tiniest drip-drip of energy - the smallest of leaks in space-time - that is causing this biggest of problems to accumulate.
+
+The leak would have to be so small as to have gone unnoticed so far. At the Large Hadron Collider and elsewhere, experimental physicists are on the lookout for apparent violations of conservation of energy, as spotting one might indicate the existence of new particles. So far they haven't found any good leads, and the chances are they won't with current particle colliders. But the amount of energy non-conservation these experiments allow is still enough to hide the observed strength of dark energy, Perez says, something like the mass of a proton going missing every year from a cube of water 10 kilometres across.
+
+While physicists have long known about general relativity's ability to transfer energy in and out of the space-time curvature on a grand scale, they have struggled to make it work on the scales Josset describes. What has stood in their way, says Sabine Hossenfelder, a theoretical physicist at the Frankfurt Institute for Advanced Studies in Germany, is that Einstein's equations are ruthless about energy conservation when you zoom in on small regions of space. Any quantum jiggery-pokery would invalidate the mathematics.
+
+That is, until Josset's colleagues suggested using a less restricted view that Einstein himself had worked on. This workaround allowing Josset to relax its restrictions on energy conservation.
+
+"I'm annoyed I didn't think of it earlier," says Hossenfelder.
+
+But one of Josset's assumptions remains contentious. The idea that space-time is ultimately made up of grains, while popular, is far from proven. Identifying the source of dark energy in the interplay between quantum theory and general relativity may require a different approach. Natacha Altamirano of the Perimeter Institute in Waterloo, Canada, has come at the problem from a different angle. Or rather from the largest possible scale, to examine how quantum mechanics and general relativity play off each other across the entirety of the universe.
+
+Altamirano's work considers what would happen to a particle traversing the smooth hills and valleys described by Einstein's theory, but within a universe itself following the fuzzy rules of quantum mechanics.
+
+Considering a quantum universe is a familiar gambit in theories of quantum cosmology, which try to explain the universe's earliest instants back when it was still tiny and ruled by wild fluctuations. If the whole universe was quantum, then, much like an electron orbiting an atom, the cosmos could theoretically exist as a superposition of many different possible sizes and states at once.
+
+In practice, the universe's choices are a lot more limited. The reason lies in Heisenberg's uncertainty principle, which governs the precision with which we can know the value of any quantum variable. Measure the position of a particle very accurately, for example, and you can't closely measure its momentum, and vice versa. As photons travel from one galaxy to another, they lose energy. And in the language of the uncertainty principle, that's a lot like taking a cosmological measurement.
+
+All those unintentional measurements of the universe force the quantum uncertainty to go somewhere else. And one of the ways that can manifest itself is in the form of information loss elsewhere: a little more uncertainty in the rate the universe is accelerating, for example. That change, in turn, would have consequences for all other variables that depend on that rate, further changing the acceleration of the universe in a perpetual feedback loop.
+
+Unless you accounted for it, all that noise would add up to a mysterious dark energy-like term popping out of the void. "If I decide to describe my universe with a theory of general relativity that conserves energy, I would see this extra fluid," says Altamirano. As to whether the dark energy density that emerges from such a model might turn out to match reality in a way that rivals Josset's, Altamirano is still working on generating such a figure. "I can't tell how possible that is," she says.
+
+Josset's and Altamirano's approaches come at a time when dark energy has repeatedly foiled theorists' attempts to nail it down. Not everyone is convinced the pair are barking up the right tree, though. For Antonio Padilla at the University of Nottingham, UK, the sheer difference in scales makes it unlikely that quantum gravity effects on the smallest imaginable sizes can explain dark energy, which is manifest across billions of light years.
+
+They can't both be right, either. Because the two approaches use different mathematical language to discuss how gravity and the quantum world interact, they produce different answers for what happens to cosmology. Altamirano's model produces something like dark energy, but it's a kinder, gentler version. As the universe expands, it dilutes in space, whereas the dark energy density predicted by Josset's model remains a constant, in keeping with observations.
+
+Ironing out such wrinkles to everyone's satisfaction would probably need a fully formed theory of quantum gravity - or at least some as-yet unimagined experimental test that would allow us to look at the universe's very earliest moments. Until then, dark energy will continue to accumulate interest in the distant reaches of the cosmos - a silent rebuke to the idea that we have our cosmic accounting practices in hand. n
+
+Joshua Sokol is a freelance writer based in Boston
+
+"Tiny violations of energy conservation build up during the universe's history"
+
+What has conservation of energy ever done for us?
+
+Everywhere we look, energy seems to be created or destroyed. Falling objects gain speed; tides rise and fall; digested food seems to practically disappear.
+
+But each time we've pulled these apparent mysteries apart, believing that the energy must be conserved rather than made or eradicated, we've revealed new science. Objects raised above Earth's surface acquire gravitational potential energy; seas and oceans are affected by the pull of the moon; food is converted into body fat.
+
+Similar reasoning, applied to blocks sliding across a surface, allowed Leonardo da Vinci to discover friction. The 19th-century French astronomer Urbain Le Verrier combined it with data demonstrating irregularities in the motion of the planets to predict the existence of Neptune. Physicists like James Joule made use of it to prove that heat was simply another form of energy. And Albert Einstein's E = m c2 shows that the colossal energy generated by an atomic blast has been stored up as mass all along. Even the mystery of dark energy might one day be explained away by applying the principle (see main story).
+
+Perhaps the most remarkable example concerns the neutrino. In 1930, physicists knew that radioactive atoms could emit electrons, but energy seemed to vanish during this process. That led Wolfgang Pauli, clinging to the law of conservation of energy like a lifeboat, to propose that a small and unseen extra particle was ferrying it away.
+
+"I have done something very bad today by proposing a particle that cannot be detected," Pauli wrote. "It is something no theorist should ever do." But a quarter of a century later, the particle, a neutrino, was discovered - exactly as Pauli, and the energy conservation principle, had predicted.
+
+"Finding dark energy may involve treating the universe as a quantum object"
